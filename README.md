@@ -1,8 +1,16 @@
 # bezout-gpgcd
-A way of solving approximate GCD problems (studying)
+An implementation of the GPGCD algorithm with the Bezout matrix.
 
-gpgcd-bezout.mpl: the source code of this algorithm
+## Paper
 
-manual.mw: a manual about how to execute the source code
+Boming Chi and Akira Terui. The GPGCD Algorithm with the Bezout Matrix. 
+Computer Algebra in Scientific Computing – CASC 2020, Lecture Notes in Computer Science, Springer, 2020, to appear.
 
-Code of the original GPGCD algorithm: https://github.com/atelieraterui/gpgcd
+## Contents
+
+* gpgcd-bezout.mpl: the source code of this algorithm
+* manual.mw: a manual about how to execute the source code
+
+## Notes
+
+* Code of the original GPGCD algorithm: https://github.com/atelieraterui/gpgcd

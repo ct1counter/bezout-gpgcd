@@ -1,5 +1,5 @@
-# bezout-gpgcd
-An implementation of the GPGCD algorithm with the Bezout matrix.
+# mGPGCD-Bezout
+An implementation of the GPGCD algorithm with the Bezout matrix for multiple polynomials.
 
 ## Contents
 

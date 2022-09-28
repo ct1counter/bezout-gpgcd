@@ -1,21 +1,18 @@
-# mGPGCD-Bezout
-An implementation of the GPGCD algorithm with the Bezout matrix for multiple polynomials.
+# GPGCD-Bezout
+An implementation of the GPGCD algorithm with the Bezout matrix for two polynomials.
 
 ## System requirements
 
-Computer algebra system Maple. Tested on Maple 2016 and 2021.
+Computer algebra system Maple. Tested on Maple 2014 and 2016.
 
 ## How to use me
 
-Open gpgcd-bezout-demo.mw for instructions.
+Open manual.mw for instructions.
 
 ## Contents
 
-* gpgcd-multipol-bezout-1.0.mpl: the main program
-* gpgcd-bezout-demo.mw: a demo worksheet 
-* generating-testpolynomials-multipol.mpl: a program for generating test polynomials
-* gpgcd-testpol-gen.mw: worksheeto for generating test polynomials using 
-generating-testpolynomials-multipol.mpl
-* testpol-mul-*.mpl: test polynomials used in experiments in the paper
-* test-10-3-tests.xlsx: the output data in a test in gpgcd-bezout-demo.mw
-* test-10-*-tests-fermat.xlsx: the output data in experiments in the paper
+* manual.mw: a manual about how to execute the source code
+* gpgcd-bezout.mpl: the source code of this algorithm
+* Testpol-*-*-*-0.01.mpl: test polynomials used in the paper (Groups 1-10)
+* Testpol-*-*-*-0.01-02.mpl: test polynomials used in the paper (Groups 11-15)
+
